@@ -199,6 +199,9 @@ int main()
     cout << "To validate it use DuckDuckGo's JSON validator (just duck \"json validator\")." << endl;
     cout << "To submit your IA to DuckDuckGo, fork https://github.com/duckduckgo/zeroclickinfo-goodies into your github." <<endl;
     cout << "Create a new branch, rename your JSON file and upload it to zeroclickinfo-goodies/share/goodie/cheat_sheets/json/ in your forked repository." << endl;
+    cout << "If you want to test it, read these:" << endl;
+    cout << "https://docs.duckduckhack.com/welcome/setup-dev-environment.html" << endl;
+    cout << "https://docs.duckduckhack.com/walkthroughs/programming-syntax.html" << endl;
     cout << "Then see here how to submit a pull request: https://docs.duckduckhack.com/submitting/pull-request.html" << endl;
     system("pause");
 
